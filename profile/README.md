@@ -3,7 +3,7 @@
 👋 Welcome to TelioDigital, a company dedicated to open source software development, news, and learning. We are passionate about building software that solves real-world problems and creating a community of developers who are eager to learn and grow.
 
 ## About Us
-TelioDigital was founded in 2020 by a team of software engineers and business professionals who wanted to make a difference in the world of software development. Our team has experience in a wide range of technologies, including Angular, Express.js, and PostgreSQL, which we use to build open source SaaS solutions.
+TelioDigital was founded in 2021 by a team of software engineers and business professionals who wanted to make a difference in the world of software development. Our team has experience in a wide range of technologies, including Angular, Express.js, and PostgreSQL, which we use to build open source SaaS solutions.
 
 In addition to our software development work, we are also passionate about sharing knowledge and creating a community of developers who are eager to learn and grow. To this end, we offer training and mentorship to individuals who want to learn to code.
 
