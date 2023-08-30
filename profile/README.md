@@ -1,5 +1,3 @@
-Delivering Premium Software Solutions for High-Performance Businesses
-
 ## About
 
 We are a product company that is concentrated on delivering high quality products in the field of Space / Cosmos.
