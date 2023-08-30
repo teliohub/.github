@@ -1,40 +1,39 @@
-## Telio Digital
+Delivering Premium Software Solutions for High-Performance Businesses
 
-👋 Welcome to TelioDigital, a company dedicated to open source software development, news, and learning. We are passionate about building software that solves real-world problems and creating a community of developers who are eager to learn and grow.
+## About
 
-## About Us
-TelioDigital was founded in 2021 by a team of software engineers and business professionals who wanted to make a difference in the world of software development. Our team has experience in a wide range of technologies, including Angular, Express.js, and PostgreSQL, which we use to build open source SaaS solutions.
+We are a product company that is concentrated on delivering high quality products in the field of Space / Cosmos.
 
-In addition to our software development work, we are also passionate about sharing knowledge and creating a community of developers who are eager to learn and grow. To this end, we offer training and mentorship to individuals who want to learn to code.
+Our philosophy is rapid development and feedback!
 
-## Our Projects
+## The product
 
-### CRM, Estimations, and Invoices
 
-🚧 In Development
+The first project we are developing is Artiscape Boutique. This is a project that would allow astrophotographers and space artists to monetize and share their work.
 
-Our flagship product is an open source SaaS solution for managing customer relationships, creating estimates, and generating invoices. Built using Angular, Express.js, and PostgreSQL, our CRM is designed to be easy to use, yet powerful enough to meet the needs of small and medium-sized businesses.
+Uploading images, portfolio page, galleries, verification system, monetizable articles and videos and many more.
 
-### Bulgarian History and News
+## The development
 
-🚧 In Development
+What do we mean by rapid development and feedback?
 
-We are also committed to preserving and promoting Bulgarian history and culture. To this end, we are working on a website that provides news and information about Bulgaria, as well as resources for learning more about the country's rich history.
+We believe that software has to grow fast and ship fast. New features have to be developed all the time.
 
-## Agency Services
+We absolutely hate working with software that hasn’t changed in years! And that’s why we don’t! Bugs staying with months and months.. not appealing to us!
 
-We are also an agency that provides software development services to businesses of all sizes. Our team of experienced developers can help you build custom software solutions to meet your business needs.
+Feedback is essential for doing just that. Every paying user would have the ability to vote and propose features. The most voted ideas are going to be built!
 
-**Join Our Community**
+That’s what we call democracy in software!
 
-We believe that the best way to learn and grow as a developer is to be part of a community. That's why we have created **Techtivity Club**, a community of developers who are passionate about learning and growing together.
+## Why is our software open-source?
 
-Whether you are a seasoned developer or just starting out, we welcome you to join our community. We offer a range of resources, including online courses, webinars, and mentorship programs, to help you learn and grow as a developer.
+The reason is simple - we believe in transparency. We love open source and we love the community we are building this for.
 
-### Get Involved
+We also believe that people deserve to know exactly what software they are using.
 
-If you're interested in our work, we'd love to hear from you. You can get in touch with us by visiting our website at teliodigital.com. We are always looking for talented individuals to join our team, contribute to our open source projects, and be part of our community.
+### Interested?
 
-## Official Site
+Sign up for early access if that’s something that you are interested in.
 
-Visit our official site at <a target="_blank" href="https://teliodigital.com">Telio Digital</a> to learn more about us and our services.
+Feel free to open a ticket or start a discussion if we are  still in the development process. Contact us and we will get back to you!
+
