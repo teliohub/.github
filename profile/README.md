@@ -22,16 +22,3 @@ We absolutely hate working with software that hasn’t changed in years! And tha
 Feedback is essential for doing just that. Every paying user would have the ability to vote and propose features. The most voted ideas are going to be built!
 
 That’s what we call democracy in software!
-
-## Why is our software open-source?
-
-The reason is simple - we believe in transparency. We love open source and we love the community we are building this for.
-
-We also believe that people deserve to know exactly what software they are using.
-
-### Interested?
-
-Sign up for early access if that’s something that you are interested in.
-
-Feel free to open a ticket or start a discussion if we are  still in the development process. Contact us and we will get back to you!
-
